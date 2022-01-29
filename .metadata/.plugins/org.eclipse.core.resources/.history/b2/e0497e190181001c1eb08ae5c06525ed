@@ -1,0 +1,5 @@
+package com.bookstoreapplication.model.persistence;
+
+public class Book {
+
+}

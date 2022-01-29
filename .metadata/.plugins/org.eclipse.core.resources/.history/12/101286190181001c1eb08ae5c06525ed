@@ -1,0 +1,5 @@
+package com.bookstoreapplication.model.exceptions;
+
+public class DataAccessException {
+
+}
